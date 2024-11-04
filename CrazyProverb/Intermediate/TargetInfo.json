@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrazyProverb",
+			"Path": "..\\Source\\CrazyProverb.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrazyProverbEditor",
+			"Path": "..\\Source\\CrazyProverbEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
